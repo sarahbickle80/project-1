@@ -1,0 +1,21 @@
+h1{
+  color:yellow;
+  background-color: black;
+  font-family: Impact;
+  font-size: 50px;
+}
+p{
+  color: black; 
+  background-color: yellow;
+  font-family: courier: font-size: 20px;
+  }
+#firstParagraph{
+    color: blue;
+    font-size: 30px;
+  }
+#secondParagraph{
+  color: green;
+  background-color:DeepPink;
+  font-family:verdana;
+  font-size: 15px;
+}
